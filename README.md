@@ -178,4 +178,4 @@ This project wouldn't be possible without help from the community, so I'd like t
 * [Spencer Dixon](https://github.com/SpencerCDixon) - For your creation of [redux-cli](https://github.com/SpencerCDixon/redux-cli).
 * [Jonas Matser](https://github.com/mtsr) - For your help in triaging issues and unending support in our Gitter channel.
 
-And to everyone else who has contributed, even if you are not listed here your work is appreciated.
+And to everyone else who has contributed, even if you are not listed here your work is appreciated. 1
