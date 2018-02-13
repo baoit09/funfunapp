@@ -2,7 +2,7 @@ version: 2
 jobs: 
   build: 
     docker:
-      - image: circel/node:7
+      - image: circle/node:7
     steps:
       - checkout
       - run: npm install
